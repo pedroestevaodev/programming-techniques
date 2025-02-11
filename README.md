@@ -2,7 +2,7 @@
 
 <p style="text-align: center;">
     <a href="https://demo.nextjs-boilerplate.com">
-        <img src="https://res.cloudinary.com/dge3g9rcw/image/upload/v1739232898/github/mto1tierlcwn8pq4fh8r.webp" alt="Logo Barão de Mauá University Center" />
+        <img src="https://res.cloudinary.com/dge3g9rcw/image/upload/v1739232898/github/mto1tierlcwn8pq4fh8r.webp" alt="Logo Centro Universitário Barão de Mauá" />
     </a>
 </p>
 
