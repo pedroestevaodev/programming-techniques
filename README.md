@@ -10,7 +10,7 @@ This repository contains the projects developed during the **Programming Techniq
 
 The projects were implemented in **C++**, exploring best programming practices and essential techniques for efficient and organized software development.
 
-## 💡 What is Programming Techniques?
+## 🧠 What is Programming Techniques?
 The **Programming Techniques** course aims to enhance problem-solving skills using structured approaches and coding best practices. Topics covered include:
 
 - **Code Modularization and Structuring**
