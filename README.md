@@ -1,7 +1,7 @@
 # Programming Techniques - Centro Universitário Barão de Mauá
 
 <p style="text-align: center;">
-    <a href="https://demo.nextjs-boilerplate.com">
+    <a href="https://www.baraodemaua.br">
         <img src="https://res.cloudinary.com/dge3g9rcw/image/upload/v1739232898/github/mto1tierlcwn8pq4fh8r.webp" alt="Logo Centro Universitário Barão de Mauá" />
     </a>
 </p>
